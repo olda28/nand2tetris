@@ -3,24 +3,11 @@ site:
   title: Olda's Docs
   structure:
     - type: section
-      key: section-1
-      title: Home
-      path: home
-      icon: house
-      default: true
-      children:
-        - type: space
-          key: space-1
-          title: Home
-          path: home
-          default: true
-          content:
-            directory: null
-    - type: section
       key: section-2
       title: Documentation
       path: documentation
       icon: book-blank
+      default: true
       children:
         - type: space
           key: space-2
