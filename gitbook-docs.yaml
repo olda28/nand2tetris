@@ -4,14 +4,15 @@ site:
   structure:
     - type: section
       key: section-2
-      title: Documentation
-      path: documentation
-      icon: book-blank
+      title: Logic Gates
+      path: project1
+      description: "We're given a single chip: Nand. Many more logic gates will be needed - so, let's build them from scratch!"
+      icon: "1"
       default: true
       children:
         - type: space
           key: space-2
-          title: Documentation
+          title: Logic Gates
           path: documentation
           default: true
           content:
