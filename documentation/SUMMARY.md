@@ -1,27 +1,12 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Project 1 - Logic gates](README.md)
 
-## Getting Started
+## Theory
 
-* [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
-* [Your first project](getting-started/your-first-project.md)
+* [0's and 1's](theory/0s-and-1s.md)
+* [Truth tables](theory/truth-tables.md)
+* [Laws of booleans](theory/laws-of-booleans.md)
+* [Gates](theory/gates.md)
 
-## Core concepts
-
-* [Core concepts](core-concepts/core-concepts.md)
-* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
-* [Permissions](core-concepts/permissions.md)
-
-## Guides
-
-* [Guides](guides/guides.md)
-* [Custom domains](guides/custom-domains.md)
-* [Automations](guides/automations.md)
-
-## Reference
-
-* [Reference](reference/reference.md)
-* [Configuration](reference/configuration.md)
-* [Glossary](reference/glossary.md)
+## Chips
