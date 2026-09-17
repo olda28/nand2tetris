@@ -3,6 +3,20 @@ site:
   title: Olda's Docs
   structure:
     - type: section
+      key: section-1
+      title: Logic Gates
+      path: project1
+      description: "We're given a single chip: Nand. Many more logic gates will be needed - so, let's build them from scratch!"
+      icon: "1"
+      children:
+        - type: space
+          key: space-1
+          title: Logic Gates
+          path: logic-gates
+          default: true
+          content:
+            directory: ./copy-of-logic-gates/logic-gates
+    - type: section
       key: section-2
       title: Computations
       path: project2
@@ -15,20 +29,5 @@ site:
           title: Computations
           path: copy-of-logic-gates
           default: true
-          content:
-            directory: ./copy-of-logic-gates
-    - type: section
-      key: section-1
-      title: Copy of Logic Gates
-      path: copy-of-logic-gates
-      description: "We're given a single chip: Nand. Many more logic gates will be needed - so, let's build them from scratch!"
-      icon: "1"
-      children:
-        - type: space
-          key: space-1
-          title: Computations
-          path: copy-of-logic-gates
-          default: true
-          draft: true
           content:
             directory: ./copy-of-logic-gates
