@@ -5,7 +5,7 @@ icon: torii-gate
 
 # Gates
 
-_Note: The terms "function" and "(logic) gate" are used interchangeably.._
+_Note: The terms "function" and "(logic) gate" are used interchangeably._
 
 ## Boolean functions
 
@@ -14,7 +14,7 @@ A logic gate is a boolean function, that performs some operations on one or more
 <p align="center"><span class="math">\text{Not}(a)=\overline{a}</span></p>
 
 \
-This defines a function (logic gate) called "Not", that takes one input and returns back the negated input. The line above $$\ovrerline{a}$$$$\overline{a}$$ is just a convenient notation; it corresponds to the Not gate.
+This defines a function called "Not", that takes one input $$(a)$$ and returns back the negated input. The line above $$\overline{a}$$ is just a convenient notation for writing down boolean algebra; in practice, we can use functions/gates only.&#x20;
 
 In physics, circuits can implement logic gates of many kinds to perform some kind of boolean calculation on voltages. 1 is a high voltage and 0 is a no/low voltage. Most basic types of gates have a well-established symbol for them. For example:&#x20;
 
@@ -40,7 +40,7 @@ We can see that the XNOR gate produces 1 when its inputs are equal. In standard 
 
 ## Starterpack
 
-During reading this, you may have wondered - since $$\overline{a}=\text{Not}(a)$$, what about the symbols $$+,\cdot~$$ ? Are they also gates? Yes, indeed, they are. And the definition is very straightforward. Here are the three gates you already know, the starterpack for your journey. <br>
+During reading this, you may have wondered - since $$\overline{a}=\text{Not}(a)$$, what about the symbols $$+,\cdot~$$ ? Are they also gates? Yes, indeed, they are. And the definition is very straightforward. Here are the three gates you already know; the starterpack for your journey. <br>
 
 <p align="center"><span class="math">\text{Not}(a)=\overline{a}</span></p>
 

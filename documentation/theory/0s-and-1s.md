@@ -7,7 +7,7 @@ icon: binary
 
 From your early days of studying math, you may remember some basic boolean algebra. Specifically, you probably already understand the operations Not, And, Or.&#x20;
 
-If we have three numbers  $$a,\ b,\ c$$, then the expression:
+If we have three numbers  $$a,\ b,\ c$$, then the expression
 
 <p align="center"><span class="math">(a\vee b)\wedge \neg c</span></p>
 
@@ -30,7 +30,7 @@ When we treat boolean algebra as base-2 math (only 0's and 1's), the only new sy
 
 <summary>Why does 1 + 1 = 1 ?</summary>
 
-As opposed to elemental algebra, boolean algebra only has two values: 0 and 1. While the symbols $$+,~\cdot~$$ are shared, and many properties of real numbers in elemental algebra apply to boolean algebra, they operate on different sets of numbers with different operations. In elemental algebra, $$1+1=2$$, however in boolean algebra, we get $$1+1=1$$. Logically, the expression true OR true is simply true. \
+As opposed to elemental algebra, boolean algebra only has two values: 0 and 1. While the symbols $$+,~\cdot~$$ are shared, and many properties of real numbers in elemental algebra apply to boolean algebra, they operate on different sets of numbers with different operations. In elemental algebra, $$1+1=2$$, however in boolean algebra, we get $$1+1=1$$. Logically, the expression "true OR true" is just "true".\
 \
 To drive the point further home, we can apply boolean algebra to physics, where 0 is a closed switch and 1 is an open switch. In a circuit such as:
 

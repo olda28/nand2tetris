@@ -20,7 +20,7 @@ All of the laws have their form both in multiplication and addition forms. It mi
 (OR)</th><th width="184.2000732421875">Multiplication
 (AND)</th><th width="140.7999267578125">Comment</th></tr></thead><tbody><tr><td><strong>Identity</strong></td><td><span class="math">a+0=a</span></td><td><span class="math">a\cdot1=a</span></td><td>Same as <span class="math">\mathbb{R}</span></td></tr><tr><td><strong>Null</strong></td><td><span class="math">a+1=1</span></td><td><span class="math">a\cdot0=0</span></td><td>Same as <span class="math">\mathbb{R}</span> <sup>(1)</sup></td></tr><tr><td><strong>Commutative</strong></td><td><span class="math">a+b=b+a</span></td><td><span class="math">a\cdot b=b\cdot a</span></td><td>Same as <span class="math">\mathbb{R}</span></td></tr><tr><td><strong>Associative</strong></td><td><span class="math">a+(b+c)=(a+b)c</span></td><td><span class="math">a(bc)=(ab)c</span></td><td>Same as <span class="math">\mathbb{R}</span></td></tr></tbody></table>
 
-<sup>(1)</sup> As shown in [#why-does-1--1-1](0s-and-1s.md#why-does-1--1-1 "mention"), keep in mind that $$1+1=1$$&#x20;
+<sup>(1)</sup> As shown in [#why-does-1--1-1](0s-and-1s.md#why-does-1--1-1 "mention"), keep in mind that $$1+1=1$$ .
 
 ## Boolean basic
 
@@ -37,6 +37,10 @@ Try different values of 0's and 1's for each rule to better understand why it ho
 <table><thead><tr><th width="142.39999389648438">Law</th><th width="260.5999755859375">Addition
 (OR)</th><th width="233.40005493164062">Multiplication
 (AND)</th></tr></thead><tbody><tr><td><strong>Distributive</strong></td><td><span class="math">a+bc=(a+b)(a+c)</span></td><td><span class="math">a(b+c)=ab+ac</span></td></tr><tr><td><strong>Absorption</strong></td><td><span class="math">a+ab=a</span></td><td><span class="math">a(a+b)=a</span></td></tr><tr><td><strong>De Morgan's</strong></td><td><span class="math">\overline{a+b}=\overline{a}\cdot\overline{b}</span></td><td><span class="math">\overline{ab}=\overline{a}+\overline{b}</span></td></tr></tbody></table>
+
+{% hint style="info" icon="triangle-exclamation" %}
+Make sure you understand De Morgan's law from this section and can apply it easily. It'll be used heavily in the next chapter if you wish to find the best solutions.
+{% endhint %}
 
 {% tabs %}
 {% tab title="Distributive" %}
@@ -69,7 +73,7 @@ You may think of this law as a special case of the **Distributive** law. However
 
 
 **Addition (OR):** The idea is that the whole expression does not depend on $$ab$$, making it redundant.\
-If $$a=0$$, then $$ab=0$$ anyway, since $$a$$ is zero. If $$a=1$$, then $$ab$$ doesn't matter since                         they're joined by $$+$$, making the expression true either way. For both cases of $$a$$, the expression evaluates to whatever $$a$$ is, making the term $$ab$$ redundant.
+If $$a=0$$, then $$ab=0$$ anyway, since $$a$$ is zero. If $$a=1$$, then $$ab$$ doesn't matter since they're joined by $$+$$, making the expression true either way. For both cases of $$a$$, the expression evaluates to whatever $$a$$ is, making the term $$ab$$ redundant.
 
 **Multiplication (AND):** The same line of reasoning applies, $$(a+b)$$ is redundant and does not affect the expression.\
 \
@@ -102,5 +106,58 @@ A mathematical proof for this can be found at [GeeksForGeeks - Proof of De Morga
 {% endtab %}
 {% endtabs %}
 
+## Practice
 
+It's understandable that you will not remember all the laws by heart after reading three huge tables on this page. However, with applying logic and a little practice, you'll find basic boolean algebra is quick to learn.&#x20;
 
+MIT offers an excellent set of practice problems, which can be found by [**clicking here.**](https://web.mit.edu/6.111/www/s2007/PSETS/pset1.pdf) The relevant sections are the very first 27 problems, and **Problem #3** (De Morgan's Theorem). Especially De Morgan will be used extensively later, so I recommend working out at least one of the exercises.
+
+Solutions are provided for the first 27 problems at the end of the PDF. For De Morgan (Problem #3), you can find them below:
+
+<details>
+
+<summary>De Morgan's Theorem: Problem 3-1</summary>
+
+$$~~~~~\overline{\overline{(a+d)}\cdot\overline{(\overline{b}+c)}}$$
+
+$$=\overline{\overline{(a+d)}}+\overline{\overline{(\overline{b}+c)}}$$     _(De Morgan)_
+
+$$=(a+d)+(\overline{b}+c)$$     _(Double negative)_
+
+$$=a+\overline{b}+c+d$$           _(Associative law)_
+
+</details>
+
+<details>
+
+<summary>De Morgan's Theorem: Problem 3-2</summary>
+
+$$\over$$$$~~~~~\overline{\overline{a\cdot b\cdot \overline{c}}+\overline{(\overline{c}\cdot d)}}$$
+
+$$=\overline{\overline{(a\cdot b\cdot \overline{c})}}\cdot\overline{\overline{(\overline{c}\cdot d)}}$$    _(De Morgan)_
+
+$$=(a\cdot b\cdot\overline{c})\cdot (\overline{c}\cdot d)$$    _(Double negative)_
+
+$$=a\cdot b\cdot\overline{c}\cdot\overline{c}\cdot d$$           _(Associative law)_
+
+$$=a\cdot b\cdot\overline{c}\cdot d$$                _(Idempotent law)_
+
+</details>
+
+<details>
+
+<summary>De Morgan's Theorem: Problem 3-2</summary>
+
+$$\over$$$$~~~\overline{\overline{a}+d}\cdot\overline{b+\overline{c}}\cdot\overline{\overline{c}+d}$$
+
+$$=(\overline{\overline{a}}\cdot\overline{d})\cdot\overline{b+\overline{c}}\cdot\overline{\overline{c}+d}$$         _(De Morgan)_
+
+$$=(\overline{\overline{a}}\cdot\overline{d})\cdot(\overline{b}\cdot\overline{\overline{c}})\cdot(\overline{\overline{c}}\cdot\overline{d})$$       _(De Morgan x2)_
+
+$$=(a\cdot\overline{d})\cdot(\overline{b}\cdot c)\cdot(c\cdot\overline{d})$$       _(Double negative)_
+
+$$=a\cdot\overline{d}\cdot\overline{b}\cdot c\cdot c\cdot \overline{d}$$                 _(Commutative law - rearrangee)_
+
+$$=a\cdot\overline{b}\cdot c\cdot\overline{d}$$                           _(Idempotent law)_
+
+</details>
