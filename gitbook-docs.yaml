@@ -29,5 +29,6 @@ site:
           title: Computations
           path: copy-of-logic-gates
           default: true
+          draft: true
           content:
             directory: ./copy-of-logic-gates
