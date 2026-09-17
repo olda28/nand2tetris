@@ -35,7 +35,5 @@
 * [OR8Way](chips-multiway/or8way.md)
 * [MUX4Way16](chips-multiway/mux4way16.md)
 * [MUX8Way16](chips-multiway/mux8way16.md)
-
-***
-
-* [pset1](pset1.md)
+* [DMUX4Way](chips-multiway/dmux4way.md)
+* [DMUX8Way](chips-multiway/dmux8way.md)

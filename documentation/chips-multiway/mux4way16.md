@@ -10,8 +10,6 @@ icon: merge
 _Note: in HDL, arrays are indexed from the back._\
 _If `sel=110` , then `sel[0]=0, sel[1]=1, sel[2]=1` ._
 
-_**To slice a part of an array (from `i` to `j` including):**_ `arr[i..j]`
-
 ## Expected functionality
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=97vcvW"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
@@ -74,7 +72,7 @@ Mux16(a=a, b=b, sel=sel[0], out=ab);
 Mux16(a=c, b=d, sel=sel[0], out=cd);
 ```
 
-Now you have an array called $$ab$$ which contains either $$a$$ or $$b$$ according to the input. An an array called $$cd$$ which contains either $$c$$ or $$d$$ .
+Now you have an array called $$ab$$ which contains either $$a$$ or $$b$$ according to the input. And an array called $$cd$$ which contains either $$c$$ or $$d$$ .
 
 Now join them according to the first digit of the selector.
 
@@ -82,7 +80,7 @@ Now join them according to the first digit of the selector.
 
 <details>
 
-<summary>Solution (sequential)</summary>
+<summary>Solution</summary>
 
 ```
 CHIP Mux4Way16 {

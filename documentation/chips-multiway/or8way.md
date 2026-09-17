@@ -5,7 +5,9 @@ icon: square-xmark
 
 # OR8Way
 
+## Expected functionality
 
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=bxY9kX"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ## Definition
 

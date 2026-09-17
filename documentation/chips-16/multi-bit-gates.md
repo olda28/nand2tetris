@@ -5,9 +5,9 @@ icon: info
 
 # Multi-bit gates
 
-Remember when we said boolean functions (gates, chips...) take in one or two inputs, and produce a single output?&#x20;
+Remember when we said boolean functions (gates, chips...) take in one or two inputs, and produce a single output?
 
-That was not completely accurate. Insofar our variables were only a single bit: either a 0 or a 1. What if we want to input an array of bits? As you'll see, we can create an _n_-bit gate that performs it's single-bit operation on each element of the array.
+That was not completely accurate. Insofar our variables were only a single bit: either a 0 or a 1. What if we want to input an array of bits? As you'll see, we can create an _n_-bit gate that performs its single-bit operation on each element of the array.
 
 In programming terms, instead of a boolean variable, we receive an **array** of booleans. We loop over them, and perform the single-bit gate we implemented in the previous section.
 

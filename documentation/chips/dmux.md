@@ -7,9 +7,16 @@ icon: split
 
 _Note: I personally use \["z" instead of "sel"] and \["d" instead of "in"] as it's shorter and easier to work with._
 
+## Expected functionality
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=axmdaS"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+
 ## Definition
 
 ```
+IN in, sel; // in = d, sel = z
+OUT a, b;
+
 [a, b] = [d, 0] if z = 0
          [0, d] if z = 1
 ```
@@ -138,6 +145,8 @@ CHIP DMux {
 }
 ```
 
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=PcNybF"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+
 $$\text{NAND}(d,z)$$ gives us the inverse of our wanted $$b$$ expression. $$a$$ is the same, except we waste a NAND on negating $$z$$ first.\
 \
 There's an extremely elegant but hard to spot implementation that does not waste this extra NAND. Dare to find it?
@@ -158,7 +167,7 @@ $$a=d\overline{z}\\b=dz$$
 
 $$x=\overline{d\overline{z}}\\y=\overline{dz}$$
 
-The variables $$x,~y$$ are the same as in the simple solution. Two negations at the end, and two nands to get to $$x,y$$ from $$d,z$$.\
+The variables $$x,~y$$ are the same as in the simple solution. Two negations at the end, and two NANDs to get to $$x,y$$ from $$d,z$$.\
 In total: 4 NANDs.
 
 The issue is the extra negation of $$z$$ before doing all of that. That makes it 5 NANDs.
@@ -227,7 +236,7 @@ CHIP DMux {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Visualization of the 4-NAND DMUX</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=EW71rd"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ### Why does $$x=\text{NAND}(y,d)$$?
 
