@@ -8,6 +8,7 @@ site:
       path: project1
       description: "We're given a single chip: Nand. Many more logic gates will be needed - so, let's build them from scratch!"
       icon: "1"
+      default: true
       children:
         - type: space
           key: space-1
@@ -22,7 +23,6 @@ site:
       path: project2
       description: We've defined a lot of chips. Now, we can use them to do mathematial/binary operations!
       icon: "2"
-      default: true
       children:
         - type: space
           key: space-2
