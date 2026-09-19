@@ -7,7 +7,7 @@ icon: split
 
 ## Expected functionality
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=lmQJLJ"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (35).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=lmQJLJ"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ## Definition
 
@@ -81,6 +81,6 @@ CHIP DMux8Way {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=8raE1A"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (34).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=8raE1A"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 </details>

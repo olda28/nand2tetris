@@ -5,7 +5,7 @@ icon: circle-ampersand
 
 # NAND
 
-NAND means Not-And, aka $$\text{NOT}(\text{AND}(a,b))$$ . This means to apply the function AND, and negate the output. This chip has a specific diagram.&#x20;
+NAND means Not-And, aka $$\text{NOT}(\text{AND}(a,b))$$ . This means to apply the function AND, and negate the output. This chip also has a specific symbol.&#x20;
 
 <figure><img src="https://i.redd.it/how-does-the-two-following-images-make-sense-together-nand-v0-n9ucytsp21yb1.png?width=362&#x26;format=png&#x26;auto=webp&#x26;s=2bf8deaa26e337da19bf4a6c1c077be491ca825a" alt=""><figcaption></figcaption></figure>
 
@@ -15,7 +15,7 @@ The gates NAND and NOR have the interesting property that ALL other gates can be
 
 ## Expected functionality
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=iPhq2j"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=iPhq2j"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ## Definition
 

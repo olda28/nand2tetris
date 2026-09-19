@@ -47,4 +47,6 @@ Once you're happy, you can select the next chip to implement in the dropdown on 
 
 ## In-built chips
 
-In case you decide to skip a section (don't do that!), the IDE provides its own built-in definitions of chips. I recommend (as does the book) that you implement the chips in order, and reuse only the ones you've already built (and the provided NAND of course). A small hint for you though, you'll only use NAND (given) and NOT (built) in the **Basic Chips** section. Remember, it's all just NANDs.
+In case you decide to skip a section (don't do that!), the IDE provides its own built-in definitions of chips. I recommend (as does the book) that you implement the chips in order, and reuse only the ones you've already built (and the provided NAND of course). A small hint for you though, you'll only use NAND (given) and NOT (built) in the **Basic Chips** section.
+
+Remember, it's all just NANDs. And then, hopefully, Tetris.

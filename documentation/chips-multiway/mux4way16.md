@@ -12,7 +12,7 @@ _If `sel=110` , then `sel[0]=0, sel[1]=1, sel[2]=1` ._
 
 ## Expected functionality
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=97vcvW"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (19).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=97vcvW"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ## Definition
 
@@ -94,6 +94,6 @@ CHIP Mux4Way16 {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=BIE1ts"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (21).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=BIE1ts"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 </details>

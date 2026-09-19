@@ -7,7 +7,7 @@ icon: square-xmark
 
 ## Expected functionality
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=bxY9kX"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (29).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=bxY9kX"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ## Definition
 
@@ -56,7 +56,7 @@ CHIP Or8Way {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (12).png" alt="" width="563"><figcaption><p><a href="https://www.falstad.com/s.php?s=pTZwZU"><strong>Click here for the interactive version</strong></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (12).png" alt="" width="563"><figcaption><p><a href="https://www.falstad.com/s.php?s=pTZwZU"><strong>Click here for the interactive version</strong></a></p></figcaption></figure></div>
 
 While this works, and is as efficient, I recommend looking at the "forks" solution below. It'll make the next few gates much easier to think about.
 
@@ -84,6 +84,6 @@ CHIP Or8Way {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (13).png" alt="" width="375"><figcaption><p><a href="https://www.falstad.com/s.php?s=80vEw9"><strong>Click here for the interactive version</strong></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (13).png" alt="" width="375"><figcaption><p><a href="https://www.falstad.com/s.php?s=80vEw9"><strong>Click here for the interactive version</strong></a></p></figcaption></figure></div>
 
 </details>

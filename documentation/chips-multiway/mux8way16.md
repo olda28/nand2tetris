@@ -13,7 +13,7 @@ E.g. get `11` from `110` : `arr[1..2]`
 
 ## Expected functionality
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=b5Jrzz"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (24).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=b5Jrzz"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ## Definition
 
@@ -130,6 +130,6 @@ CHIP Mux8Way16 {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=DPbUEc"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (30).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=DPbUEc"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 </details>

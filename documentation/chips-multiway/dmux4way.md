@@ -11,7 +11,7 @@ You may have noticed we only implemented MUX16 and not even DMUX16 in the previo
 
 ## Expected functionality
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=eo8td4"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (31).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=eo8td4"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ## Definition
 
@@ -81,6 +81,6 @@ CHIP DMux4Way {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=DPbUEc"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (32).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=DPbUEc"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 </details>

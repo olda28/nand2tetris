@@ -34,13 +34,13 @@ Try different values of 0's and 1's for each rule to better understand why it ho
 
 ## Boolean advanced
 
+{% hint style="danger" %}
+Make sure you understand De Morgan's law from this section and can apply it easily. It'll be used heavily in the next chapters if you wish to find the best solutions.
+{% endhint %}
+
 <table><thead><tr><th width="142.39999389648438">Law</th><th width="260.5999755859375">Addition
 (OR)</th><th width="233.40005493164062">Multiplication
 (AND)</th></tr></thead><tbody><tr><td><strong>Distributive</strong></td><td><span class="math">a+bc=(a+b)(a+c)</span></td><td><span class="math">a(b+c)=ab+ac</span></td></tr><tr><td><strong>Absorption</strong></td><td><span class="math">a+ab=a</span></td><td><span class="math">a(a+b)=a</span></td></tr><tr><td><strong>De Morgan's</strong></td><td><span class="math">\overline{a+b}=\overline{a}\cdot\overline{b}</span></td><td><span class="math">\overline{ab}=\overline{a}+\overline{b}</span></td></tr></tbody></table>
-
-{% hint style="info" icon="triangle-exclamation" %}
-Make sure you understand De Morgan's law from this section and can apply it easily. It'll be used heavily in the next chapter if you wish to find the best solutions.
-{% endhint %}
 
 {% tabs %}
 {% tab title="Distributive" %}

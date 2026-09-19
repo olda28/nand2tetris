@@ -7,7 +7,7 @@ icon: xmark-large
 
 ## Expected functionality
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=un5zPd"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (4).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=un5zPd"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ## Definition
 
@@ -43,6 +43,6 @@ CHIP Not {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=2TrVqR"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=2TrVqR"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 </details>

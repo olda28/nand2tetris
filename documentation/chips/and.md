@@ -7,7 +7,7 @@ icon: ampersand
 
 ## Expected functionality
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=6PtHYW"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (5).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=6PtHYW"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ## Definition
 
@@ -52,6 +52,6 @@ CHIP And {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=3p1Euc"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (6).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=3p1Euc"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 </details>

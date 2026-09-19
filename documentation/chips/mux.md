@@ -11,7 +11,7 @@ _Note: I personally use "z" instead of "sel" as it's shorter and easier to work 
 
 _Note: in this image, a and b are flipped as opposed to the previous diagrams._&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=fr65dT"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (11).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=fr65dT"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ## Definition
 
@@ -80,6 +80,6 @@ CHIP Mux {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=vOTxm4"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (25).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=vOTxm4"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 </details>

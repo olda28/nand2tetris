@@ -9,7 +9,7 @@ _Note: I personally use \["z" instead of "sel"] and \["d" instead of "in"] as it
 
 ## Expected functionality
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=axmdaS"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (26).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=axmdaS"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ## Definition
 
@@ -145,7 +145,7 @@ CHIP DMux {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=PcNybF"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (27).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=PcNybF"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 $$\text{NAND}(d,z)$$ gives us the inverse of our wanted $$b$$ expression. $$a$$ is the same, except we waste a NAND on negating $$z$$ first.\
 \
@@ -236,7 +236,7 @@ CHIP DMux {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=EW71rd"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (28).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=EW71rd"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ### Why does $$x=\text{NAND}(y,d)$$?
 

@@ -65,7 +65,7 @@ CHIP Xor {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=8MtZKX"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (9).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=8MtZKX"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 </details>
 
@@ -122,7 +122,7 @@ CHIP Xor {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=I6kzhO"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (10).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=I6kzhO"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 </details>
 

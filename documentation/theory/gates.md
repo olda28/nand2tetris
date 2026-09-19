@@ -52,4 +52,4 @@ During reading this, you may have wondered - since $$\overline{a}=\text{Not}(a)$
 
 And here are their gate diagrams, if you wondered:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><em>Source:</em> <a href="https://learncomputing.org/revision/gcse/2-4"><em>learncomputing.org</em></a></p></figcaption></figure>
+<figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image.png" alt=""><figcaption><p><em>Source:</em> <a href="https://learncomputing.org/revision/gcse/2-4"><em>learncomputing.org</em></a></p></figcaption></figure>

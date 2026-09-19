@@ -7,7 +7,7 @@ icon: plus
 
 ## Expected functionality
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=3p1Euc"><em><strong>Click here for the interactive verison</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/image (7).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=3p1Euc"><em><strong>Click here for the interactive verison</strong></em></a></p></figcaption></figure></div>
 
 ## Definition
 
