@@ -75,6 +75,6 @@ CHIP Or {
 }
 ```
 
-<div data-with-frame="true"><figure><img src="/broken/files/bOfsPB0wWtu3ptYPxmWK" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=fQyaNs"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../copy-of-logic-gates/logic-gates/.gitbook/assets/circuit-20260919-1356.png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=fQyaNs"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 </details>
