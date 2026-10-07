@@ -7,7 +7,7 @@ icon: circle-ampersand
 
 NAND means Not-And, aka $$\text{NOT}(\text{AND}(a,b))$$ . This means to apply the function AND, and negate the output. This chip also has a specific symbol.&#x20;
 
-<figure><img src="https://i.redd.it/how-does-the-two-following-images-make-sense-together-nand-v0-n9ucytsp21yb1.png?width=362&#x26;format=png&#x26;auto=webp&#x26;s=2bf8deaa26e337da19bf4a6c1c077be491ca825a" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://i.redd.it/how-does-the-two-following-images-make-sense-together-nand-v0-n9ucytsp21yb1.png?width=362&#x26;format=png&#x26;auto=webp&#x26;s=2bf8deaa26e337da19bf4a6c1c077be491ca825a" alt=""><figcaption></figcaption></figure></div>
 
 ## Why NAND?
 

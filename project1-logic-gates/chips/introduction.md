@@ -13,7 +13,7 @@ Introduction to the HDL, as well as more information and context are available i
 
 There are some tips for implementation, and a full list of the chips for this project in [another original PDF.](https://drive.google.com/open?id=17Rt3z7_OvpoQNlM6xtmC67Rn3blgM4W5\&authuser=schocken%40gmail.com\&usp=drive_fs)
 
-This Gitbook is easier to follow if the original book is too much information or too difficult at times, but at the cost of leaving out a lot of background context and the depth of knowledge. If you have a lot of time, I heavily recommend reading the original PDFs/book as well. This Gitbook is more "let's go build", the original book is more "let's really understand and build".
+This GitBook may be easier to follow if the original book is too much information for you or too difficult at times, but it comes at the cost of leaving out a lot of background context and the depth of knowledge. If you have enough time and interest, I **heavily** recommend reading the original PDFs/book as well. This GitBook is more "let's go build", the original book is more "let's understand and build".
 
 ## Interactive diagrams
 

@@ -7,7 +7,7 @@ icon: shield-plus
 
 ## Expected functionality
 
-<div data-with-frame="true"><figure><img src="/broken/files/3paukENhxpVpYeodkvb0" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=5ruBos"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption><p><a href="https://www.falstad.com/s.php?s=5ruBos"><em><strong>Click here for the interactive version</strong></em></a></p></figcaption></figure></div>
 
 ## Definition
 
