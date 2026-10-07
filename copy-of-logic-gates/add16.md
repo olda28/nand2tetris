@@ -37,7 +37,7 @@ You've just built two chips - one that adds two numbers, and one that adds three
 
 <summary>Hint #2</summary>
 
-Lots of copy pasting. Good thing you built your adders. Isn't it convenient now that the arrays are indexed from back to start?
+Lots of copy pasting. Good thing you built your adders. Isn't it convenient now that in HDL, arrays are indexed from the back?
 
 </details>
 
@@ -72,6 +72,6 @@ HIP Add16 {
 }
 ```
 
-_I've decided not to provide a solution diagram as 1 HalfAdder and 15 FullAdder would take quite a lot of space considering the solution is trivial._&#x20;
+_I've decided not to provide a solution diagram as 1 HalfAdder and 15 FullAdder would take quite a lot of space, and since the solution is trivial._&#x20;
 
 </details>

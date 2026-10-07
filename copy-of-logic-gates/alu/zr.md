@@ -86,7 +86,7 @@ How do you know if two bits are both zero?
 
 <summary>Solution</summary>
 
-XNOR (Negation of XOR) gives 1 only if both values are zero (or one, but that can't happen with what we're doing)
+NOR (Negation of OR) gives 1 only if both values are zero (or one, but that can't happen with what we're doing)
 
 ```
    // negate the bus (if first digit stays the same then zr=1)

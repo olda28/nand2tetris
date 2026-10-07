@@ -49,7 +49,7 @@ Reuse your components! You just built a HalfAdder. Try to apply it to two of the
 
 $$\text{HalfAdder}(a,b)\rightarrow s_0, c_0$$
 
-Compare the columns. Which two of them seem similar?
+Add $$s_0$$ and $$c_0$$ to your truth table. Compare them with the outputs. Which two columns seem similar?
 
 </details>
 
@@ -252,7 +252,7 @@ That's it. Good job.
 
 <summary>Hint #19</summary>
 
-You may have found yourself to have 10 NANDs despite following the hints if your first XOR gate is a HalfAdder and your second is pure XOR. Write your code anyway. Look at which statement is useless - you don't use the output.&#x20;
+You may have found yourself to have 10 NANDs despite following the hints if your first XOR gate is a HalfAdder and your second is pure XOR. Write your code anyway. Look at which statement is useless (you don't use the output).
 
 </details>
 

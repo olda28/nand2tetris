@@ -5,7 +5,7 @@ icon: binary
 
 # Base-2 math
 
-The theory behind mathematical operations in base-2, as well as working with base-2 numbers and how negative numbers work is all described well in the original NAND2Tetris PDF, section 2.1 .
+The theory behind mathematical operations in base-2, as well as working with base-2 numbers and how negative numbers work is all described very well in the original NAND2Tetris PDF, section 2.1 .
 
 
 

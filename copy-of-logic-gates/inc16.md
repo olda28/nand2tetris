@@ -7,7 +7,7 @@ icon: square-1
 
 ## HDL Syntax
 
-If you need access to a constant zero or one, the variables `true` (1) and `false` (0) are defined in the IDE.
+If you need access to a constant zero or one, the variables `true` (1) and `false` (0) are defined in the IDE. They will fill any amount of bits with the value (any width).
 
 _Note: Remember, arrays are indexed from the back (right-to-left)._
 
@@ -47,7 +47,7 @@ With what chip can you add two numbers at the right-most column? How many number
 
 <summary>Solution</summary>
 
-Start of the HalfAdder chain with adding `true` and `in[0]` for the right-most digit. Add up the carry and the next number for the rest.
+Start off the HalfAdder chain with adding `true` and `in[0]` for the right-most digit. Add up the carry and the next number for the rest.
 
 ```
 CHIP Inc16 {
