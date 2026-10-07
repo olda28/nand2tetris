@@ -1,4 +1,6 @@
 # Nand2Tetris: Bit by bit
+See the live version at: [https://olda28.gitbook.io](https://olda28.gitbook.io)
+
 Implementing nand2tetris, step by step, chapter by chapter - but optimally.
 I try to use the most effective solution by combining math and improvisation.
 
