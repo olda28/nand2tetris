@@ -4,7 +4,7 @@
 
 ## Theory
 
-* [Base-2 math](theory/base-2-math.md)
+* [Base-2](theory/base-2.md)
 
 ## Addition chips <a href="#chips" id="chips"></a>
 
