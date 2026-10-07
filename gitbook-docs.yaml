@@ -16,7 +16,7 @@ site:
           path: logic-gates
           default: true
           content:
-            directory: ./copy-of-logic-gates/logic-gates
+            directory: ./project1-logic-gates
     - type: section
       key: section-2
       title: Arithmetics
@@ -30,4 +30,4 @@ site:
           path: copy-of-logic-gates
           default: true
           content:
-            directory: ./copy-of-logic-gates
+            directory: ./project2-arithmetic
