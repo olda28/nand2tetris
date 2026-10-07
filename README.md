@@ -1,4 +1,4 @@
-# nand2tetris
+# Nand2Tetris: Bit by bit
 Implementing nand2tetris, step by step, chapter by chapter - but optimally.
 I try to use the most effective solution by combining math and improvisation.
 
