@@ -1,6 +1,6 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: "Nand2Tetris: step-by-step handbook"
+  title: "Nand2Tetris: bit by bit"
   structure:
     - type: section
       key: section-1
