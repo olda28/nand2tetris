@@ -19,16 +19,15 @@ site:
             directory: ./copy-of-logic-gates/logic-gates
     - type: section
       key: section-2
-      title: Computations
+      title: Arithmetics
       path: project2
       description: We've defined a lot of chips. Now, we can use them to do mathematial/binary operations!
       icon: "2"
       children:
         - type: space
           key: space-2
-          title: Computations
+          title: Arithmetics
           path: copy-of-logic-gates
           default: true
-          draft: true
           content:
             directory: ./copy-of-logic-gates
